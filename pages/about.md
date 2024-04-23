@@ -1,1 +1,2 @@
-The collection of image on this website page were found in varioujs archives. 
+The collection of images on this website page were found in various archives. 
+I hope this shows up, I'm losing my mind.
