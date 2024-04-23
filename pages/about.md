@@ -1,4 +1,4 @@
----
+This project took me countless hours to complete. I feel like a giantic moron.
 title: About
 layout: about
 permalink: /about.html
